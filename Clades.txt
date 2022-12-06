@@ -33,7 +33,7 @@ Great-Lakes,JD53_Shi,JD62_Rundi,JD64_Shubi,JD65_Hangaza,JD66_Kiha,JD67_Kivinza,J
 Chokwe-Luchazi,K11_Ciokwe,K14_Lwena,K15_Mbunda,K18_Ganguela
 Southern-Njila,K33_Kwangali,K332_Rumanyo,R13_Nyaneka,R21_Kwanyama,R22_Ndonga,R31_Herero
 Botatwe,K402_Fwe,M61_Lenje,M62_Soli,M64_Tonga
-Luban,L221_Lwalwa,L23_Songe,L31a_Luba-Kasai,L32_Kanyok,L33_Luba-Shaba,L34_Hemba,L35_Sanga,L41_Kaonde
+Luban,L23_Songe,L31a_Luba-Kasai,L32_Kanyok,L33_Luba-Shaba,L34_Hemba,L35_Sanga,L41_Kaonde
 Lunda,L51_Salampasu,L52_Lunda,L53_Runda
 Sabi,M402_Aushi,M41_Taabwa,M42_Bemba,M52_Lala,M54_Lamba
 Rufiji-Ruvuma,N13_Matengo,N14_Mpoto,P11_Ndengeleko,P12_Rufiji,P13_Matumbi,P14_Ngindo,P21_Yao,P22_Mwera,P23_Simakonde,P25_Mabia
