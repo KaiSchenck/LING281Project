@@ -1,7 +1,7 @@
 Grassfields,Fefe_Grassfields,Mungaka_Grassfields,Bamun_Grassfields,Kom_Grassfields,Oku_Grassfields,Aghem_Grassfields,Njen_Grassfields,Moghamo_Grassfields
 Jarawan,Zaambo_Jarawan,Bwazza_Jarawan,Mbula_Jarawan,Bile_Jarawan,Kulung_Jarawan,Duguri_Jarawan
-Lundu-Balong,A11_Londo,A121_Mbonge,A141_Lefo,A15_Manenguba,A15A_Mbuu,A15B_Mienge_NW_Manenguba,A15C_Elung_Central_Manenguba,A15C_Akossi,A15C_Mkaa,A151_Nkongho
-Sawabantu,A122_Bakundu,A22_Bakweri,A24_Duala,A26_Pongo,A27_Malimba,A32C_Batanga,A33a_Yasa,A34_Benga
+Lundu-Balong,A11_Londo,A121_Mbonge,A141_Lefo,A15_Manenguba,A15A_Mbuu,A15B_Mienge_NW_Manenguba,A15C_Elung_Central_Manenguba,A15C_Akossi,A15C_Mkaa,A151_Nkongho,A22_Bakweri
+Sawabantu,A122_Bakundu,,A24_Duala,A26_Pongo,A27_Malimba,A32C_Batanga,A33a_Yasa,A34_Benga
 Basaa-Yaunde,A41_Barombi-Kang,A42_Abo,A43a_Basaa,A63_Mangisa,A71_Eton,A72a_Ewondo,A74a_Bulu,A75a_Fang_Bitam,A75a_Fang_Minvoul,A75a_Fang_Medouneu
 Mbam,A44_Tunen,A45_Nyokon,A46_Nomaande,A462_Yambeta,A601_Tuki,A61_Ngoro-Asom,A61_Ngoro-Bisoo,A61_Ngoro-lunda,A62A_Nuasue,A62A_Nukalonge,A62B_Mmala,A62C_Libie,A621_Nubaca,A622_Nugunu
 Bafia,A51_Bafia_maja,A53_Bafia_rikpa,A54_Tibea
@@ -27,7 +27,7 @@ Sukuma-Nyamwezi,F21_Ntuzu,F21_Sukuma,F22_Nyamwezi,F23_Sumbwa,F24_Kimbu
 Corridor,F25_Bungu,M11_Pimbwe,M12_Lungwa,M13_Fipa,M14_Rungu,M15_Mambwe,M21_Wanda,M22_Namwanga,M23_Nyiha,M24_Malila,M25_Safwa,M28_Lambya,M301_Ndali,M31_Nyakyusa
 Nyaturu-Nilamba,F31_Nyiramba,F32_Nyaturucha,F32_Nyaturuwil
 Kilombero,G51_Pogoro,G52_Ndamba,P15_Mbunga
-Southern-Tanzania-Highlands,G61_Sangu,G62_Hehe,G63_Bena,G64_Pangwa,G65_Kinga,G66_Wanji,N11_Manda,N12_Ngoni
+Southern-Tanzania-Highlands,G61_Sangu,G62_Hehe,G63_Bena,G64_Pangwa,G65_Kinga,G66_Wanji
 Northern-Njila,H21a_Kimbundu,H321_Soonde,H41_Mbala,L11_Pende,L12b_Holu,L13_Kwese
 Great-Lakes,JD53_Shi,JD62_Rundi,JD64_Shubi,JD65_Hangaza,JD66_Kiha,JD67_Kivinza,JE11_Runyoro,JE12_Rutooro,JE13_Runyankore,JE14_Rukiga,JE15_Luganda,JE16_Lusoga,JE17_Gwere,JE21_Runyambo,JE22_Haya,JE23_Zinza,JE24_Kerebe,JE25_Jita,JE25_Kilegi,JE25_Mkwaya,JE31_Lumasaaba,JE31c_Bukusu,JE32_Luyia,JE34_Samialugwe,JE401_Ngoreme,JE402_Ikizu,JE403_Suba,JE404_Shasi,JE41_Maragoli,JE42_Gusii,JE43_Kuria,JE43_Kuria_Mago,JE43_Kuria_Tari,JE44_Zanaki,JE45_Nata
 Chokwe-Luchazi,K11_Ciokwe,K14_Lwena,K15_Mbunda,K18_Ganguela
